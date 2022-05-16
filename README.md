@@ -51,11 +51,10 @@ records = {
     }
   }
   "A" : {
-      {
-	  awesomewebsite : {
-        record : "172.20.0.1"
-        name : "*"
-    }
+      awesomewebsite {
+          record : "172.20.0.1"
+          name : "@"
+      }
   }
   }
     "domain2.com" = {
@@ -103,10 +102,10 @@ records = {
     }
   }
   "A" : {
-      {
-	  awesomewebsite : {
-        record : "172.20.0.1"
-        name : "*"
-    }
+      awesomewebsite {
+          record : "172.20.0.1"
+          name : "@"
+      }
+  }
 }
 }
