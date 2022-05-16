@@ -53,8 +53,8 @@ records = {
   "A" : {
       {
 	  awesomewebsite : {
-      record : "172.20.0.1"
-      name : "*"
+        record : "172.20.0.1"
+        name : "*"
     }
   }
   }
@@ -105,8 +105,8 @@ records = {
   "A" : {
       {
 	  awesomewebsite : {
-      record : "172.20.0.1"
-      name : "*"
+        record : "172.20.0.1"
+        name : "*"
     }
 }
 }
