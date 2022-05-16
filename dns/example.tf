@@ -44,7 +44,7 @@ records = {
     }
   }
   "A" : {
-      awesomewebsite {
+      awesomewebsite : {
           record : "172.20.0.1"
           name : "@"
       }
@@ -95,7 +95,7 @@ records = {
     }
   }
   "A" : {
-      awesomewebsite {
+      awesomewebsite : {
           record : "172.20.0.1"
           name : "@"
       }
