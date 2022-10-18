@@ -2,7 +2,7 @@
 terraform {
   required_providers {
     cloudflare = {
-      source = "cloudflare/cloudflare"
+      source  = "cloudflare/cloudflare"
       version = "~> 3.0"
     }
   }
@@ -10,8 +10,8 @@ terraform {
 
 # ask for vars
 
-variable cloudflare_email {}
-variable cloudflare_api_key {}
+variable "cloudflare_email" {}
+variable "cloudflare_api_key" {}
 
 # set provider var config 
 
